@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    margin-left: 10px;
+    
+}
+.con1{
+    height: 10%;
+    width: 50%; 
+    background-color:white;
+    position: relative;
+}
+.con1 img{
+    height: 60%;
+    width: 65%;
+    position: relative;
+}
+
+.con2{
+    height: 10%;
+    width: 30%; 
+    background-color:darkgreen;
+    position: relative;
+    padding: 20px;
+    color:white;
+}
+.bike{
+    padding-top: 10px;
+    display: inline-block;
+    background-color: red;
+    border-radius: 5px;
+    height: 20px;
+    width: 50px;
+    text-align: center;
+    padding: 5px;
+}
+.Yamaha,.logos{
+    padding-top: 20px;
+}
+.logos img{
+    height: 20px;
+    width: 20px;
+}
+.logos p{
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.star{
+    height:90px;
+    width:100px;
+    margin-top: -53px;
+    margin-left: 70px;
+}
+.color p{
+    margin-top: -20px;
+}
+.color button{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.price{
+    margin-top: -25px;
+}
+.new{
+    display: block;
+    margin-left: 120px;
+    font-size: 1.5em;
+}
+.price del{
+    margin-left: 60%;
+    margin-top:-20px;
+    display: block;
+
+}
+#cart{
+    height: 30px;
+    width: 50%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+#black{
+    background-color: black;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: blue;
+}
+button:hover{
+    cursor: pointer;
+}
